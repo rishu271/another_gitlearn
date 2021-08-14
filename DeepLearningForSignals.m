@@ -20,7 +20,7 @@
 load ECGData.mat;
 
 size(ECGData.Data)
-%% Visualize Signals 
+%% Visualize Signals and let me add few more comments
 
 signalAnalyzer
 %% 
